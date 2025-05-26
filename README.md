@@ -33,14 +33,17 @@ A little bit about _code_... I have a passion for building UI that makes sense f
 
 ## Plant Gallery!
 <a href="https://github.com/ChristineAu-yeung/Plants">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChristineAu-yeung&repo=Plants&theme=radical&show_owner=True" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChristineAu-Yeung&repo=Plants&theme=dracula&show_owner=True" />
+</a>
+<a href="https://github.com/ChristineAu-Yeung/Plants-Backend">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChristineAu-Yeung&repo=Plants-Backend&theme=dracula&show_owner=True" />
 </a>
 
 
 ## GitHub Stats
 <a href="https://github.com/ChristineAu-yeung/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristineAu-yeung&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristineAu-yeung&layout=compact&theme=dracula" />
 </a>
 <a href="https://github.com/ChristineAu-yeung/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ChristineAu-yeung&show_icons=true&theme=radical&hide=issues" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ChristineAu-yeung&show_icons=true&theme=dracula&hide=issues" />
 </a>
